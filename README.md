@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hello!
+I am a graduate student at East China Normal University (ECNU) and Shanghai Innovation Institute (SII), interested in the AI for Science (AI4S) field.
+<br />
+<br />
 
-<!--
-**SixuanMi/SixuanMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Contribution to Repositories 
+<a href="https://github.com/Romarin87/FPS-SOAP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Romarin87&repo=FPS-SOAP&theme=buefy" />
+</a>
+<br />
+<br />
 
-Here are some ideas to get you started:
+### 📊 My GitHub History
+| <a href="https://github.com/SixuanMi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SixuanMi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a> | <a href="https://github.com/SixuanMi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SixuanMi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- 51264300116@stu.ecnu.edu.cn  
