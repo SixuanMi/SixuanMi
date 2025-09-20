@@ -1,5 +1,5 @@
 ### 👋 Hello!
-I am a graduate student at East China Normal University (ECNU) and Shanghai Innovation Institute (SII), interested in the AI for Science (AI4S) field.
+I am a graduate student at East China Normal University (ECNU) and Shanghai Innovation Institute (SII), interested in the AI for Science (AI4S) field. SII is an institution dedicated to innovation in education and research in the field of AI
 <br />
 <br />
 
