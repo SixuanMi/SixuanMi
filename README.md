@@ -10,8 +10,8 @@ I am a graduate student at East China Normal University (ECNU) and Shanghai Inno
 <a href="https://github.com/SixuanMi/Uni-Reaction-Release">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SixuanMi&repo=Uni-Reaction-Release&theme=buefy" />
 </a>
-<a href="https://github.com/SixuanMi/Reaction-Network-Simulation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SixuanMi&repo=Reaction-Network-Simulation&theme=buefy" />
+<a href="https://github.com/SixuanMi/YARP-bnfm-slurm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SixuanMi&repo=YARP-bnfm-slurm&theme=buefy" />
 </a>
 <a href="https://github.com/SixuanMi/3D-Molecule-Align">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SixuanMi&repo=3D-Molecule-Align&theme=buefy" />
